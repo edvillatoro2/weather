@@ -184,8 +184,8 @@ tp://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&ap
 
 <style>
 /* styles.css */
-/* @import url(
-'https://fonts.googleapis.com/css2?family=Zen+Dots:wght@300;400;500;700&display=swap'); */
+ @import url(
+'https://fonts.googleapis.com/css2?family=Zen+Dots:wght@300;400;500;700&display=swap'); 
 
 /* General Styles */
 html, body {
